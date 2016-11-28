@@ -1,0 +1,13 @@
+F:\computing3\adv_softwareEng\Debugger\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+F:\computing3\adv_softwareEng\Debugger\UnitTestProject1\bin\Debug\test.mdf
+F:\computing3\adv_softwareEng\Debugger\UnitTestProject1\bin\Debug\test_log.ldf
+F:\computing3\adv_softwareEng\Debugger\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+F:\computing3\adv_softwareEng\Debugger\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+F:\computing3\adv_softwareEng\Debugger\UnitTestProject1\bin\Debug\Debugger.exe
+F:\computing3\adv_softwareEng\Debugger\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\computing3\adv_softwareEng\Debugger\UnitTestProject1\bin\Debug\Twilio.Api.dll
+F:\computing3\adv_softwareEng\Debugger\UnitTestProject1\bin\Debug\Debugger.pdb
+F:\computing3\adv_softwareEng\Debugger\UnitTestProject1\bin\Debug\Twilio.Api.pdb
+F:\computing3\adv_softwareEng\Debugger\UnitTestProject1\bin\Debug\Twilio.Api.xml
+F:\computing3\adv_softwareEng\Debugger\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+F:\computing3\adv_softwareEng\Debugger\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

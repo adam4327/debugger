@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Debugger.admin" Collapsed="true">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAACQAAJgAAACQAAACAAgIAAAAMMAECEAQAAA=</HashCode>
+      <FileName>admin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Debugger.bugReport">
+    <Position X="11.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACgAAAAAACAAAJAAAACAAAACAAAAAAQAEQAQAAAQACA=</HashCode>
+      <FileName>bugReport.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Debugger.fixBug" Collapsed="true">
+    <Position X="14" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>8CgAAAAAASAgABEQAACAAABSIAAAAAAAEAAQAAAQACA=</HashCode>
+      <FileName>fixBug.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Debugger.form1" Collapsed="true">
+    <Position X="2.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACIAABAAAACAAAACAgAIAAAAEUAQAAAQAAA=</HashCode>
+      <FileName>form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Debugger.MDIParent1" Collapsed="true">
+    <Position X="7.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BIAAAAkAACAAAAAACgCAAAACAAAAAAgAAAAAAAAIAAE=</HashCode>
+      <FileName>MDIParent1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Debugger.Program" Collapsed="true">
+    <Position X="24" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Debugger.register" Collapsed="true">
+    <Position X="16.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAAABAAAACAAABCAAAIAAAAEEAAAAAQAAA=</HashCode>
+      <FileName>register.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Debugger.search">
+    <Position X="9.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAEABAAAACAAAASAAgIAAAAEEAAAAAQAAA=</HashCode>
+      <FileName>search.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Debugger.testDataSet" Collapsed="true">
+    <Position X="22.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAwAIAApABAAAQAQhAAkCQBgAAAAIAAEABRA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Debugger.testDataSet1" Collapsed="true">
+    <Position X="24" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAwAAAApABAAAQAQAAAgCQBgAAAAAAAEABRA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Debugger.testDataSet2" Collapsed="true">
+    <Position X="18.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAwAIAAJABAEAQAAAAAgCQBgAAAAgAAEABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Debugger.user" Collapsed="true">
+    <Position X="5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIBQAACAIoBAgAACAAAACAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>user.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Debugger.Properties.Resources" Collapsed="true">
+    <Position X="18.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Debugger.Properties.Settings" Collapsed="true">
+    <Position X="20.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAACAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Debugger.testDataSetTableAdapters.adminTableAdapter" Collapsed="true">
+    <Position X="18.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACAICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Debugger.testDataSetTableAdapters.myTableTableAdapter" Collapsed="true">
+    <Position X="22.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Debugger.testDataSetTableAdapters.TableTableAdapter" Collapsed="true">
+    <Position X="20.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Debugger.testDataSetTableAdapters.userTableAdapter" Collapsed="true">
+    <Position X="20.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAACAcAIAAAAAAAACAICAAAEAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Debugger.testDataSetTableAdapters.TableAdapterManager" Collapsed="true">
+    <Position X="22.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gQAAACAAAABABAkBAAAEMAggACACgAAAAQQAAAAABAw=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Debugger.testDataSet1TableAdapters.userTableAdapter" Collapsed="true">
+    <Position X="22.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACAICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Debugger.testDataSet1TableAdapters.TableAdapterManager" Collapsed="true">
+    <Position X="24" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gQAAACAAAABABAEBAAAEMAAgAAACgAAAAAQAAAAABAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Debugger.testDataSet2TableAdapters.errorsTableAdapter" Collapsed="true">
+    <Position X="20.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Debugger.testDataSet2TableAdapters.TableAdapterManager" Collapsed="true">
+    <Position X="18.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAACAAAABABAEBAAAAMAAgAAACgAAAAQQAIAAABAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Forms.Form" Collapsed="true">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
